@@ -5,3 +5,6 @@ console.log(myFoods)
 for (i=0; i<myFoods.length; i++) {
     console.log(myFoods[i]);
 }
+
+import icons from 'teenyicons';
+console.log(Object.keys(icons));

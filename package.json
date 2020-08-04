@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/blangwell/node_modules_practice#readme",
   "dependencies": {
-    "teenyicons": "^0.3.0"
+    "chalk": "^4.1.0"
   }
 }
