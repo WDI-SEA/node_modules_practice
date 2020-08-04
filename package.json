@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/margaret-jihua/node_modules_practice/issues"
   },
-  "homepage": "https://github.com/margaret-jihua/node_modules_practice#readme"
+  "homepage": "https://github.com/margaret-jihua/node_modules_practice#readme",
+  "dependencies": {
+    "superheroes": "^3.0.0"
+  }
 }
