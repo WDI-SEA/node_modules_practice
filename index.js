@@ -1,2 +1,2 @@
 const myModule = require('./myModule')
-console.log(myModule.beBasic())
+console.log(myModule.foodArray())
