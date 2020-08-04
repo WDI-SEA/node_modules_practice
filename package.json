@@ -18,5 +18,8 @@
   "homepage": "https://github.com/Lizzwest/node_modules_practice#readme",
   "devDependencies": {
     "gitsnap": "^1.0.2"
+  },
+  "dependencies": {
+    "chalk-animation": "^1.6.0"
   }
 }
