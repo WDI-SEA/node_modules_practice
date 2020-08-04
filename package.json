@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/chamon562/node_modules_practice/issues"
   },
-  "homepage": "https://github.com/chamon562/node_modules_practice#readme"
+  "homepage": "https://github.com/chamon562/node_modules_practice#readme",
+  "dependencies": {
+    "freestyle": "0.0.4"
+  }
 }
