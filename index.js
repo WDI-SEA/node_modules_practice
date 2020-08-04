@@ -11,13 +11,3 @@ function sayWhat(arr) {
 }
 
 sayWhat(myFavoriteFoods);
-
-//
-// let randomEmail = faker.internet.email();
-// let randomCard = faker.helpers.createCard();
-//
-// console.log(randomCard, randomEmail, randomName);
-
-
-
-// console.log(random);
