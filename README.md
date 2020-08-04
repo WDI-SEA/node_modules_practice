@@ -18,6 +18,7 @@
 
 * add notes about how to create and import node modules to your Node/Express app readme, along with instructions about adding a `.gitignore`
 * paste the link to your repo in this the readme of this assignment
+- mine can be found at https://github.com/ekieff/node-review
 
 ## Finally, .gitignore and submit a PR!
 
