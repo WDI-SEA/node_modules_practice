@@ -38,4 +38,4 @@ node index.js
 nodemon will constantly update my console, where as I have to run node index.js every time to check and make sure it works.
 
 7. You can check all this out at my git hub repo:
-[This is my Repo]()
+[This is my Repo](https://github.com/kinawy/node_modules_practice)
