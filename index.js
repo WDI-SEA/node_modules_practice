@@ -6,3 +6,7 @@ const faveMeals = (meals) => {
     }
 }
 faveMeals(myModule.favoriteFoods)
+
+
+//I installed gitsnap, which supposedly takes a 
+//selfie on each commit. So we shall see if one ends up in my gitsnap folder!
