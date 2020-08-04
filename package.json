@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/SLBendak/node_modules_practice/issues"
   },
-  "homepage": "https://github.com/SLBendak/node_modules_practice#readme"
+  "homepage": "https://github.com/SLBendak/node_modules_practice#readme",
+  "dependencies": {
+    "one-liner-joke": "^1.2.0"
+  }
 }
