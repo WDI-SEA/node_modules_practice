@@ -15,3 +15,5 @@ freestyle(s, function(r){
     let B = r.couplet();
     console.log([A[0], B[0], A[1], B[1], ''].join('\n'));
 });
+
+
