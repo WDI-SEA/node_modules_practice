@@ -24,5 +24,4 @@
 * add a `.gitignore` to this assignment, so the `node_modules` folder doesn't upload to github
 * Submit this assignment by making a pull request
 
-[HERE IS A LINK TO MY REPO README WITH NODE/NPM/MODULE INFO](https://github.com/iwasnevergivenana
-me/fully-stacked)
+[link to readme with node/npm/module examples](https://github.com/iwasnevergivenaname/fully-stacked)
