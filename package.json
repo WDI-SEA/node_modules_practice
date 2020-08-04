@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/blangwell/node_modules_practice/issues"
   },
-  "homepage": "https://github.com/blangwell/node_modules_practice#readme"
+  "homepage": "https://github.com/blangwell/node_modules_practice#readme",
+  "dependencies": {
+    "teenyicons": "^0.3.0"
+  }
 }
