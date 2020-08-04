@@ -1,4 +1,5 @@
 const faker = require("faker");
+const myModule = require("./modules.js");
 
 let randomName = faker.name.findName();
 let randomFoodPic = faker.image.food();
@@ -11,3 +12,7 @@ function sayWhat(arr) {
 }
 
 sayWhat(myFavoriteFoods);
+
+
+console.log(myModule.beBasic());
+myModule.count();
