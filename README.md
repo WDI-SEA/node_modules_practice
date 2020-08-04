@@ -14,10 +14,14 @@
 * Find a [npm](https://www.npmjs.com/) that looks interesting
 * Experiment with incorporating it into this node project, just like we did with moment
 
+* I used [oneLiner](https://www.npmjs.com/package/one-liner-joke)
+
 ## Add to your Node app instructions readme
 
 * add notes about how to create and import node modules to your Node/Express app readme, along with instructions about adding a `.gitignore`
 * paste the link to your repo in this the readme of this assignment
+
+* My readme link: [here](https://github.com/BGoldenberg161/node-app-instructions)
 
 ## Finally, .gitignore and submit a PR!
 
