@@ -22,4 +22,5 @@
 ## Finally, .gitignore and submit a PR!
 
 * add a `.gitignore` to this assignment, so the `node_modules` folder doesn't upload to github
-* Submit this assignment by making a pull request
+* Submit this assignment by making a pull request <br />
+[click to read my README notes](https://github.com/vbatallones/my-first-node/blob/master/readme.md)
