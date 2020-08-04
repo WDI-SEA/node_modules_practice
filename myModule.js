@@ -5,3 +5,7 @@ module.exports.favFood = () => {
         console.log(foods[i])
     }
 }
+
+// module.exports.getRandomJoke = oneLinerJoke.getRandomJoke({
+//     'exclude_tags': ['dirty', 'racist', 'marriage']
+//   });
