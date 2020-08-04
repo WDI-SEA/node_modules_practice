@@ -6,7 +6,7 @@ for (let i = 0; i < food.length; i++) {
     console.log(food[i]);
 }
 
-/*----------npm--------*/
+/*---------- superheroes npm --------*/
 
-const superheroes = require('superheroes')
-console.log('My Super Hero: ' + superheroes.random())
+const superHeroes = require('superheroes')
+console.log('My Super Hero: ' + superHeroes.random())
