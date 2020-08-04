@@ -1,0 +1,1 @@
+module.exports.favoriteFood = () => ['noodle', 'pizza', 'rice', 'BBQ', 'burger']
