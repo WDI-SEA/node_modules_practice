@@ -19,6 +19,8 @@
 * add notes about how to create and import node modules to your Node/Express app readme, along with instructions about adding a `.gitignore`
 * paste the link to your repo in this the readme of this assignment
 
+https://github.com/ireneyap68/node-app-instructions
+
 ## Finally, .gitignore and submit a PR!
 
 * add a `.gitignore` to this assignment, so the `node_modules` folder doesn't upload to github
