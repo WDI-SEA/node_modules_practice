@@ -16,3 +16,6 @@
 13. after everything is all done go to terminal and touch .gitignore. 
 
 14. Then click inside the .gitignore on the left hand page tab and add node_modules so the folder doesn't upload to github. This will hide it.
+
+15. link to my repo.
+https://github.com/chamon562/node_modules_practice
