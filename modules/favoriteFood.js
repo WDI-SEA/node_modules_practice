@@ -1,0 +1,1 @@
+module.exports.foods = ["Pizza", "Tacos", "Hamburgers", "Nachos"]
