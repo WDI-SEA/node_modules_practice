@@ -1,5 +1,8 @@
 # Node Modules Practice
 
+# MY EXTERNAL README:
+https://github.com/blangwell/backend-readme
+
 1. Fork and clone this repo
 2. Initialize node in your cloned repo so it becomes a node project!
 
