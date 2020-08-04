@@ -1,0 +1,11 @@
+node_modules/
+
+# started with 'npm init'
+# then code .
+# created a new module named foodModule.js
+# added a list of my favorite foods and a function that will iterate
+# link it to the index.js so that will print
+# downloaded chalk using 'npm install chalk'
+# then used the list I had before and added a string 'My favorite food is:' and color blue
+
+# https://github.com/mgustavob/node_modules_practice.git
