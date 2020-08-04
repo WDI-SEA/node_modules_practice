@@ -6,7 +6,7 @@
 ## Make your own module
 
 * create a node module that stores an array of your favorite foods
-* mport that module into your index.js
+* import that module into your index.js
 * write code in your index.js so when you run your app, it loops through the array, printing all of your favorite foods to the console
 
 ## Experiment with implementing a package
