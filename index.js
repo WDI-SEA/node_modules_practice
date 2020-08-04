@@ -1,3 +1,13 @@
+const favFoods = require("./myModule.js");
+
+let favorites = favFoods.printFavFoods();
+
+for (let i = 0; i < favorites.length; i++)
+{
+    console.log(favorites[i]);
+}
+
+
 const chalk = require("chalk");
 
 console.log(chalk.green("Cool beans bro"));
